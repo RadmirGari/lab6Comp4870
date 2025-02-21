@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/radmirgaripov/Desktop/Functions2025/SchoolLibrary/SchoolLibrary.csproj",
+      "projectUniqueName": "/Users/radmirgaripov/Documents/Functions2025/SchoolLibrary/SchoolLibrary.csproj",
       "projectName": "SchoolLibrary",
-      "projectPath": "/Users/radmirgaripov/Desktop/Functions2025/SchoolLibrary/SchoolLibrary.csproj",
+      "projectPath": "/Users/radmirgaripov/Documents/Functions2025/SchoolLibrary/SchoolLibrary.csproj",
       "packagesPath": "/Users/radmirgaripov/.nuget/packages/",
-      "outputPath": "/Users/radmirgaripov/Desktop/Functions2025/SchoolLibrary/obj/",
+      "outputPath": "/Users/radmirgaripov/Documents/Functions2025/SchoolLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/radmirgaripov/.nuget/NuGet/NuGet.Config"
