@@ -35,7 +35,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        reports = await Http.GetFromJsonAsync<CountReport[]>("https://lab6rg-bpcpf6dvgwadhugc.canadacentral-01.azurewebsites.net/Functions2025/api/students/count-by-school");
+        reports = await Http.GetFromJsonAsync<CountReport[]>($"/api/students/count-by-school");
     }
 
     public class CountReport
